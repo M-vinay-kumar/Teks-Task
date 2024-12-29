@@ -5,8 +5,8 @@ This repository contains a Jupyter notebook, Training & Testing.ipynb, designed 
 ## Overview
 The notebook is structured into multiple sections, covering:
 
--**`Importing Libraries and Dataset:`** Loading the required libraries and data for analysis.
+- **`Importing Libraries and Dataset:`** Loading the required libraries and data for analysis.
 
--**`Data Insights:`** Exploring the dataset to uncover patterns, missing values, and other characteristics.
+- **`Data Insights:`** Exploring the dataset to uncover patterns, missing values, and other characteristics.
 
--**`Feature Preparation:`** Creating feature (x) and target (y) variables for machine learning models.
+- **`Feature Preparation:`** Creating feature (x) and target (y) variables for machine learning models.
